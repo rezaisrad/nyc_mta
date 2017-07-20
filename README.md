@@ -14,6 +14,6 @@ Analyzing the impact of weather on ridership
 3. Station Location: CSV with subway locations.
 
 ### Further Work
-* Linear Regression with Ridership vs. Precipitation
 * Use Latitude/Longitude for more accurate precipitation impact assessment
-* Create a more advanced model to predict ridership impact of precipitation
+* Create a prediction model to anticipate impact of precipitation on ridership
+* Impact of Temperature on Ridership

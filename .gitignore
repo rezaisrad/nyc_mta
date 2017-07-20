@@ -9,7 +9,9 @@ __pycache__/
 # Folders
 data/
 nycmta/
-clean_data/
+
+# Merged Data
+clean_data/merged_tables.csv
 
 # Distribution / packaging
 .Python
